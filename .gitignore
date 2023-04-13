@@ -19,3 +19,5 @@ vendor/
 build/
 # Go workspace file
 # go.work
+
+test/
